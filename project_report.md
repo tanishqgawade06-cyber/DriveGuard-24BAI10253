@@ -180,6 +180,7 @@ The project is divided into three main modules:
 
 ### 10.2 Live Camera Monitoring
 ![Live Monitor Armed](media/report_images/live_monitor_armed.png)
+
 ![Backend Job Processing](media/report_images/backend_job_processing.png)
 ![Job Completed](media/report_images/job_completed.png)
 
